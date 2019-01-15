@@ -1,0 +1,49 @@
+.top{
+	color:white;
+}
+.float-xs-right{
+	float:right !important;
+}
+.teams{
+	border-right:1px solid #0f0;
+
+}
+.card-head{
+	color:white;
+}
+.card-body{
+	text-transform: uppercase;
+	font-size:12px;
+}
+.tip{
+	float: right ;
+}
+.team{
+	float:left;
+}
+button{
+	text-transform:uppercase;
+}
+.lb{
+	color:#cce;
+}
+.custom-form{
+	width:80%;
+	border-radius: 3px;
+	outline:none;
+	height: 40px;
+	background-color: #343a40;
+	padding:5px;
+	color:white;
+	border:none;
+	border-bottom:1px solid #eee;
+	border-right:1px solid #eee;
+	font-size:20px;
+
+}
+.custom-btn{
+	width:80%;
+}
+.card-header{
+	color:#fff !important;
+}
